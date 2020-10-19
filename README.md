@@ -5,6 +5,6 @@
 # Languages and Tools
 
 # Follow me
-[![YouTube](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=YouTube&logoColor=34EC02)](https://www.youtube.com/channel/UCwFFhcUrwVqp9QOoFQ4_VyQ?view_as=subscriber)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=34EC02)](https://www.youtube.com/channel/UCwFFhcUrwVqp9QOoFQ4_VyQ?view_as=subscriber)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=34EC02)](https://www.instagram.com/danik_volt/)
-[![Twitter](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Twitter&logoColor=34EC02)](https://twitter.com/danik_volt)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=34EC02)](https://twitter.com/danik_volt)
